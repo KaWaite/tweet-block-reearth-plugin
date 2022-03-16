@@ -1,5 +1,5 @@
 const html = `
-<div id="tweet"></div>
+<div id="tweet" style="width: 100%;"></div>
 <script src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script>
   let property;
